@@ -6,7 +6,7 @@
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
 
-#define DIM 640
+#define DIM 420
 #define SIZE 20
 
 #define RIGHT 360
